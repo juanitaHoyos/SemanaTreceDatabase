@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "155245655415",
+    "firebase_url": "https://semanatrece.firebaseio.com",
+    "project_id": "semanatrece",
+    "storage_bucket": "semanatrece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155245655415:android:cbc2e7e72ea4b56a",
+        "android_client_info": {
+          "package_name": "com.example.a1144091759.semanatrece"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155245655415-rnoh14ufh5r35aqf3hmj2269c5jf3nnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a1144091759.semanatrece",
+            "certificate_hash": "a8760a315cead313c3b9a8fac4a5154abc33a917"
+          }
+        },
+        {
+          "client_id": "155245655415-hpa8e80qtn2mao7ca07kpi3hq5au54qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHqlXgFg-wT3ICFpErN0R3wzxUJfGKx7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155245655415-hpa8e80qtn2mao7ca07kpi3hq5au54qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
