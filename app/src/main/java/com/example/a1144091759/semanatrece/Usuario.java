@@ -4,6 +4,10 @@ class Usuario {
 
     private String uid, nombre, correo, pass;
 
+    public Usuario () {
+        
+    }
+
     //clic derecho, generar, construcotr, 3 elementos
     public Usuario(String nombre, String correo, String pass) {
         this.nombre = nombre;
