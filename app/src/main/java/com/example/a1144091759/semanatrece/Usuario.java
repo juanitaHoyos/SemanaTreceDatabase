@@ -5,6 +5,7 @@ class Usuario {
     private String uid, nombre, correo, pass;
 
     public Usuario () {
+
         
     }
 
